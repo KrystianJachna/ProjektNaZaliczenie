@@ -1,0 +1,1 @@
+Program „social media” umożliwiający zdefiniowanie użytkownika „wpisywanie” postów, które mogą być oceniane przez innych użytkowników, dopisywanie komentarzy do postów.
